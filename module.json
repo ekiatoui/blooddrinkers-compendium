@@ -1,9 +1,7 @@
 {
   "id": "v5-completed",
   "title": "V5 Completed",
-  "version": "1.0.1",
-  "manifest": "https://github.com/ekiatoui/blooddrinkers-compendium/releases/latest/download/module.json",
-  "download": "https://github.com/ekiatoui/blooddrinkers-compendium/releases/download/1.0.1/module.zip",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
